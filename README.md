@@ -19,7 +19,7 @@ NOTE: subscriptions are not yet implemented so you will need to refresh to see n
 
 NOTE2: this currently takes ~half minute to produce a new block.
 
-Next step 3:
+Next step 4:
 
 - Implements subscription
 - Disable signature verification
